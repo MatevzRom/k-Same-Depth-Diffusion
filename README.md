@@ -15,5 +15,5 @@ python run_preprocess.py
 Run the following script deidentify images:
 
 ```bash
-python run_preprocess.py
+python run_deidentification.py
 ```
