@@ -1,4 +1,4 @@
-# Temp-diploma
+# Diploma Thesis
 Deidentification using depth and diffusion model.
 
 ## How to Run
